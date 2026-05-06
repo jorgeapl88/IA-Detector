@@ -1,0 +1,15 @@
+# Entorno virtual
+venv/
+
+# Archivos temporales de Python
+__pycache__/
+*.pyc
+
+# Modelos entrenados (no se suelen subir a Git porque son binarios)
+*.pkl
+
+# Archivos de configuración sensible
+.env
+
+# Carpetas de VS Code
+.vscode/
