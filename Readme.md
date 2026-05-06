@@ -51,23 +51,23 @@ Responsable de:
 
 ## Swagger
 
-![Swagger](screenshots/swagger.png)
+![Swagger](./app/screenshots/swagger.png)
 
 ## Modelo Entrenado
 
-![Swagger](screenshots/Modelo_Entrenado.png)
+![Modelo Entrenado](./app/screenshots/Modelo_Entrenado.png)
 
 ## Tráfico Normal
 
-![Normal](screenshots/normal-request.png)
+![Normal](./app/screenshots/normal-request.png)
 
 ## Amenaza Detectada
 
-![Threat](screenshots/threat-detected.png)
+![Threat](./app/screenshots/threat-detected.png)
 
 ## Docker
 
-![Threat](screenshots/Docker.png)
+![Docker](./app/screenshots/Docker.png)
 
 # Ejecución Local
 
